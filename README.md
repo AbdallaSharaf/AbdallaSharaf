@@ -1,13 +1,13 @@
 <div align="center">
 
-# Hey, I'm [Your Name] 👋
+# Hey, I'm Abdalla 👋
 ### Full-Stack Developer · Egypt 🇪🇬
 
 *I build real products — not just side projects.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdallah-sharaf-04772b216)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdallahsharaf95@gmail.com)
 
 </div>
 
@@ -74,7 +74,7 @@ I'm a full-stack developer based in Egypt, focused on building scalable SaaS pro
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=abdallasharaf&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -84,7 +84,7 @@ I'm a full-stack developer based in Egypt, focused on building scalable SaaS pro
 
 - 🏢 Full-time roles at **product companies or startups** (on-site Egypt or remote)
 - 💻 **Freelance projects** — SaaS platforms, CRMs, internal tools, dashboards
-- 🤝 Reach out via [LinkedIn](https://linkedin.com/in/your-username) or [email](mailto:your@email.com)
+- 🤝 Reach out via [LinkedIn](https://www.linkedin.com/in/abdallah-sharaf-04772b216/) or [email](mailto:abdallahsharaf95@gmail.com)
 
 ---
 
