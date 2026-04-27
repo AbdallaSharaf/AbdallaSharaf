@@ -53,13 +53,13 @@ I'm a full-stack developer based in Egypt, focused on building scalable SaaS pro
 
 ## 📌 Featured Projects
 
-| Project | Description | Stack | Status |
-|--------|-------------|-------|--------|
-| [HR/ATS System](https://job-application-maker.vercel.app) | Full B2B Applicant Tracking System — multi-tenant, dynamic forms, interview scoring, email webhooks | React, Node, MongoDB | ✅ Live |
-| Real Estate CRM | Multi-tenant CRM with lead pipeline, campaigns, socket notifications | React, Node, MongoDB, Socket.io | ✅ Live |
-| SaaS eCommerce | Multi-tenant ecommerce platform | React, Node, MongoDB | 🚧 In Development |
-| Doctor Management System | Medical practice management system | React, Node, MongoDB | 🚧 In Development |
-| Fruits Heaven | Ecommerce for fresh produce | React, Node, MongoDB | ⏸️ On Hold |
+| Project | Description | Stack | Demo | Status |
+|--------|-------------|-------|------|--------|
+| [HR/ATS System](https://job-application-maker.vercel.app) | Full B2B Applicant Tracking System — multi-tenant, dynamic forms, interview scoring, email webhooks | React, Node, MongoDB | 📧 `demo@techvision.com` · 🔑 `Demo@123456` | ✅ Live |
+| Real Estate CRM | Multi-tenant CRM with lead pipeline, campaigns, socket notifications | React, Node, MongoDB, Socket.io | 📧 `demo@prestigeproperties.com` · 🔑 `Demo@123456` | ✅ Live |
+| SaaS eCommerce | Multi-tenant ecommerce platform | React, Node, MongoDB | — | 🚧 In Development |
+| Doctor Management System | Medical practice management system | React, Node, MongoDB | — | 🚧 In Development |
+| Fruits Heaven | Ecommerce for fresh produce | React, Node, MongoDB | — | ⏸️ On Hold |
 
 ---
 
@@ -67,14 +67,14 @@ I'm a full-stack developer based in Egypt, focused on building scalable SaaS pro
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=AbdallaSharaf&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdallaSharaf&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="165" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=abdallasharaf&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AbdallaSharaf&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
